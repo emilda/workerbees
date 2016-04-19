@@ -1,0 +1,28 @@
+{ 
+    "_id" : "John Doe", 
+    "_class" : "com.clmapp.workerbees.model.Customer", 
+    "policyNbr" : "008763493", 
+    "distance" : "0.039", 
+    "latlong" : "35.466501,-97.522698", 
+    "telephoneNbr" : "(918)111-2222", 
+    "city" : "Oklahoma City", 
+    "state" : "Oklahoma", 
+    "postalCode" : "73102", 
+    "countryCode" : "US", 
+    "streetName" : "N Dewey Ave", 
+    "structureNum" : "99"
+}
+{ 
+    "_id" : "Jane Doe", 
+    "_class" : "com.clmapp.workerbees.model.Customer", 
+    "policyNbr" : "008763494", 
+    "distance" : "0.04", 
+    "latlong" : "35.466501,-97.523008", 
+    "telephoneNbr" : "(918)222-2222", 
+    "city" : "Oklahoma City", 
+    "state" : "Oklahoma", 
+    "postalCode" : "73106", 
+    "countryCode" : "US", 
+    "streetName" : "W Sheridan Ave", 
+    "structureNum" : "698"
+}
